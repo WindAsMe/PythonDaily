@@ -1,3 +1,11 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :2d_dictTest.py
+# Location:/Home/PycharmProjects/..
+
+
 def add_dict(peoples, name, phone, addr):
     # 2D dictionary
     # Add member

@@ -1,3 +1,10 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :smtpTestTest.py
+# Location:/Home/PycharmProjects/..
+
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header

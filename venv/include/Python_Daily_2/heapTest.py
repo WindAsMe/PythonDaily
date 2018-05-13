@@ -1,3 +1,10 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :heapTest.py
+# Location:/Home/PycharmProjects/..
+
 from heapq import *
 import random
 

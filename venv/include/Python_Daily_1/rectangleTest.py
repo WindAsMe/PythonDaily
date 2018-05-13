@@ -1,3 +1,11 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :rectangleTest.py
+# Location:/Home/PycharmProjects/..
+
+
 def judge(i):
     if not isinstance(i, tuple):
         raise TypeError

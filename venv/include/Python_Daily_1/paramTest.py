@@ -1,3 +1,9 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :paramTest.py
+# Location:/Home/PycharmProjects/..
 
 
 # like C value pass by reference

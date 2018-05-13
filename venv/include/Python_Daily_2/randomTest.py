@@ -1,3 +1,10 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :randomTest.py
+# Location:/Home/PycharmProjects/..
+
 import random as r
 
 if __name__ == '__main__':

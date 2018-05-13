@@ -1,4 +1,12 @@
+# !/usr/bin/python3
+# -- coding: UTF-8 --
+# Author   :WindAsMe
+# Date     :18-5-13 下午4:47
+# File     :2div_findTest.py
+# Location:/Home/PycharmProjects/..
+
 import math
+
 
 # Binary Chop
 # In Iterator
