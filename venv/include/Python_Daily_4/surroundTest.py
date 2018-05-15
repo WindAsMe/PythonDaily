@@ -114,4 +114,4 @@ class Solution:
 if __name__ == '__main__':
 
     print('board',
-          Solution.solve([["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]))
+          Solution.solve([["X", "X", "X", "X"], ["X", "O", "O", "X"], ["X", "X", "O", "X"], ["X", "O", "X", "X"]]))
