@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7095636-70ca-4271-95a4-ec3f64d15bd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="surroundTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="surroundTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1458">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thirdMaxTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -70,6 +78,7 @@
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundDFSTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py" />
+        <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py" />
       </list>
     </option>
   </component>
@@ -82,7 +91,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="256" />
     <option name="y" value="24" />
     <option name="width" value="1236" />
@@ -150,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.surroundDFSTest">
+  <component name="RunManager" selected="Python.thirdMaxTest">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonDaily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,25 +217,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="maxProfitTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDaily" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/Python_Daily_4" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/Python_Daily_4/maxProfitTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="surroundDFSTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDaily" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,20 +255,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="thirdMaxTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDaily" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/Python_Daily_4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.maxProfitTest" />
       <item itemvalue="Python.barChartTest" />
       <item itemvalue="Python.barChartStackTest" />
       <item itemvalue="Python.surroundTest" />
       <item itemvalue="Python.surroundDFSTest" />
+      <item itemvalue="Python.thirdMaxTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.thirdMaxTest" />
         <item itemvalue="Python.surroundDFSTest" />
         <item itemvalue="Python.surroundTest" />
         <item itemvalue="Python.barChartStackTest" />
         <item itemvalue="Python.barChartTest" />
-        <item itemvalue="Python.maxProfitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -305,31 +314,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="-6" width="1309" height="774" extended-state="6" />
+    <frame x="56" y="-11" width="1311" height="780" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32763976" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="277" height="574" id="Documentation" order="5" side_tool="true" visible="true" weight="0.12865035" />
+      <window_info anchor="right" x="0" y="0" width="277" height="580" id="Documentation" order="5" side_tool="true" visible="true" weight="0.12865035" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27329192" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35445204" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14206788" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27329192" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35403726" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14601421" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32919255" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32919255" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +348,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="116" column="70" selection-start-line="116" selection-start-column="70" selection-end-line="116" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
@@ -586,8 +609,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1458">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
