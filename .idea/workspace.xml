@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c7095636-70ca-4271-95a4-ec3f64d15bd9" name="Default" comment="" />
+=======
+    <list default="true" id="c7095636-70ca-4271-95a4-ec3f64d15bd9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="findDiagonalOrderTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -29,6 +37,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
               <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+=======
+      <file leaf-file-name="findDiagonalOrderTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="20" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
             </state>
           </provider>
         </entry>
@@ -72,11 +87,18 @@
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/yangHuiIndexTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/maxProfitTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartTest.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundDFSTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py" />
+=======
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
       </list>
     </option>
   </component>
@@ -105,6 +127,7 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -116,12 +139,30 @@
             <path>
               <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Daily_4" type="462c0819:PsiDirectoryNode" />
@@ -138,7 +179,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+=======
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -313,6 +357,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32763976" />
@@ -323,17 +368,39 @@
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35232067" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14570966" />
+=======
+    <frame x="56" y="-11" width="1311" height="780" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32763976" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="277" height="580" id="Documentation" order="5" side_tool="true" visible="true" weight="0.12865035" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39596274" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35248446" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14601421" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info id="Favorites" order="2" side_tool="true" />
+=======
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="right" x="0" y="0" width="277" height="580" id="Documentation" order="5" side_tool="true" visible="true" weight="0.12865035" />
+=======
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -347,6 +414,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -354,6 +422,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -592,6 +662,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -622,6 +702,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
@@ -631,6 +712,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+=======
+        <state relative-caret-position="114">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="20" />
+>>>>>>> 6a705aa9727d72d301cd29091a4b915470a2e4f7
         </state>
       </provider>
     </entry>
