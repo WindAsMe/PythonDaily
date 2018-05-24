@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="findDiagonalOrderTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="findDiagonalOrderTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barChartStackTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -63,11 +72,11 @@
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/yangHuiIndexTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/maxProfitTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartTest.py" />
-        <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundDFSTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/thirdMaxTest.py" />
         <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py" />
+        <option value="$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py" />
       </list>
     </option>
   </component>
@@ -96,23 +105,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonDaily" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDaily" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonDaily-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDaily-master" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Daily_4" type="462c0819:PsiDirectoryNode" />
@@ -305,7 +314,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32763976" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -313,7 +321,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.39596274" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35248446" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35232067" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14570966" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -584,13 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/surroundTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -621,8 +622,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/findDiagonalOrderTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/include/Python_Daily_4/barChartStackTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
         </state>
       </provider>
     </entry>
